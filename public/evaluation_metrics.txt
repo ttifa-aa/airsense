@@ -1,0 +1,8 @@
+Linear Regression Model Evaluation
+Target: AQI
+Training rows: 129731
+Testing rows: 32433
+MAE: 10.1874
+RMSE: 14.9336
+Intercept: 8.1758
+Coefficient: 0.9115

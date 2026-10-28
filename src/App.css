@@ -1,0 +1,6 @@
+/* Top navigation that switches between the Dashboard and the Hotspot map */
+.app-nav { display: flex; align-items: center; gap: 4px; padding: 0 16px; background: #0f2447; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }
+.app-nav .app-brand { color: #fff; font-weight: 700; font-size: 18px; margin-right: 20px; padding: 12px 0; }
+.app-nav a { color: #c5d3ea; text-decoration: none; padding: 14px 16px; font-size: 15px; border-bottom: 3px solid transparent; }
+.app-nav a:hover { color: #fff; }
+.app-nav a.active { color: #fff; border-bottom-color: #60a5fa; }

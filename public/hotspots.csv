@@ -1,0 +1,12 @@
+station,station_name,lat,lon,coords_verified,mean_aqi,p90_aqi,pct_hours_above_100,hours,coverage_pct,elevated,cluster,label
+Nacharam,Nacharam (TSIIC IALA),17.4386,78.5649,True,90.8,119.0,24.7,7162,81.8,False,-2,not_elevated
+Malakpet,New Malakpet,17.3671,78.5094,True,78.2,100.0,9.3,7285,83.2,False,-2,not_elevated
+Ecilkapra,ECIL Kapra,17.4725,78.5701,True,76.2,99.0,9.0,7012,80.0,False,-2,not_elevated
+Iithkandi,IITH Kandi,17.5961,78.1253,True,72.4,96.0,7.8,6282,71.7,False,-2,not_elevated
+Kompally,Kompally Municipal Office,17.5445,78.4888,True,69.8,92.0,5.4,6503,74.2,False,-2,not_elevated
+Zoopark,Nehru Zoological Park,17.3506,78.4431,True,104.1,167.0,54.3,7769,88.7,True,-1,high_AQI_unclustered
+Pashamylaram,IDA Pashamylaram,17.531,78.1688,True,102.2,165.0,53.5,6501,74.2,True,-1,high_AQI_unclustered
+Bollaram,Bollaram Industrial Area (IDA Bollaram),17.5403,78.3502,True,109.7,163.0,59.1,6822,77.9,True,0,hotspot_cluster_0
+Kokapet,Kokapet,17.3996,78.3328,True,96.7,144.0,30.4,6494,74.1,True,0,hotspot_cluster_0
+Patancheru,ICRISAT Patancheru,17.5115,78.2751,True,90.4,156.0,38.7,7541,86.1,True,0,hotspot_cluster_0
+Centraluniversity,Central University (HCU),17.4599,78.332,True,86.0,127.0,32.0,8140,92.9,True,0,hotspot_cluster_0

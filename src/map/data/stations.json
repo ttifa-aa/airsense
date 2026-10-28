@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Bollaram",
+    "displayName": "Bollaram",
+    "lat": 17.5403,
+    "lng": 78.3502,
+    "verified": true
+  },
+  {
+    "name": "Centraluniversity",
+    "displayName": "Central University",
+    "lat": 17.4599,
+    "lng": 78.332,
+    "verified": true
+  },
+  {
+    "name": "Ecilkapra",
+    "displayName": "ECIL Kapra",
+    "lat": 17.4725,
+    "lng": 78.5701,
+    "verified": true
+  },
+  {
+    "name": "Iithkandi",
+    "displayName": "IIT Hyderabad Kandi",
+    "lat": 17.5961,
+    "lng": 78.1253,
+    "verified": true
+  },
+  {
+    "name": "Kokapet",
+    "displayName": "Kokapet",
+    "lat": 17.3996,
+    "lng": 78.3328,
+    "verified": true
+  },
+  {
+    "name": "Kompally",
+    "displayName": "Kompally",
+    "lat": 17.5445,
+    "lng": 78.4888,
+    "verified": true
+  },
+  {
+    "name": "Malakpet",
+    "displayName": "Malakpet",
+    "lat": 17.3671,
+    "lng": 78.5094,
+    "verified": true
+  },
+  {
+    "name": "Nacharam",
+    "displayName": "Nacharam",
+    "lat": 17.4386,
+    "lng": 78.5649,
+    "verified": true
+  },
+  {
+    "name": "Pashamylaram",
+    "displayName": "Pashamylaram",
+    "lat": 17.531,
+    "lng": 78.1688,
+    "verified": true
+  },
+  {
+    "name": "Patancheru",
+    "displayName": "Patancheru",
+    "lat": 17.5115,
+    "lng": 78.2751,
+    "verified": true
+  },
+  {
+    "name": "Zoopark",
+    "displayName": "Zoo Park",
+    "lat": 17.3506,
+    "lng": 78.4431,
+    "verified": true
+  }
+]
